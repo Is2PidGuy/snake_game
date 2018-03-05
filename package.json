@@ -12,6 +12,7 @@
         "@babel/preset-env": "^7.0.0-beta.40",
         "@babel/preset-react": "^7.0.0-beta.40",
         "babel-loader": "8.0.0-beta.0",
+        "file-loader": "^1.1.11",
         "webpack": "^3.11.0",
         "webpack-dev-server": "^2.11.1"
     },
